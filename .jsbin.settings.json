@@ -1,0 +1,7 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  
+  "app.theme": "dark",
+	"javascript.autoRun": false
+}
